@@ -23,13 +23,14 @@ I'm an aspiring Data Analyst passionate about transforming raw data into meaning
 
  📈 Projects
 
- 🔧 Project 1: Sales Performance Dashboard (Coming Soon)
-- **Tools:** Excel, Power BI
-- **Description:** Analyzing sales data to identify trends and business opportunities
-
- 🔧 Project 2: COVID-19 Data Analysis (Coming Soon)  
-- **Tools:** Python, Pandas
-- **Description:** Exploring pandemic data to uncover patterns and insights
+ 🔧 ### ✅ Project 1: Sales Performance Analysis
+**Tools:** Excel  
+**Description:** Analyzed product sales data to calculate revenue, profit margins, and identify top-performing regions  
+**Key Insights:** 
+- Total Revenue: $27,600
+- Most Profitable Product: Phones
+- Best Performing Region: West
+**Status:** COMPLETED
 
  📫 Let's Connect
 - **Email:** [itsmujtaba786@gmail.com]
