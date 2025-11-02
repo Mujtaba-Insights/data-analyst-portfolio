@@ -33,7 +33,7 @@ I'm an aspiring Data Analyst passionate about transforming raw data into meaning
 
  📫 Let's Connect
 - **Email:** [itsmujtaba786@gmail.com]
-- **LinkedIn:** [Your LinkedIn Profile URL]
+- **LinkedIn:** [https://www.linkedin.com/in/muhammad-mujtaba-745890242?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
 
 ---
 
