@@ -23,7 +23,7 @@ I'm an aspiring Data Analyst passionate about transforming raw data into meaning
 
  📈 Projects
 
- 🔧 ###** ✅ Project 1: Sales Performance Analysis**
+  ### ✅ Project 1: Sales Performance Analysis
 **Tools:** Excel  
 **Description:** Analyzed product sales data to calculate revenue, profit margins, and identify top-performing regions  
 **Key Insights:** 
