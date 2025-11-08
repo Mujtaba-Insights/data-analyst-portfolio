@@ -32,6 +32,19 @@ I'm an aspiring Data Analyst passionate about transforming raw data into meaning
 - Best Performing Region: West
 **Status:** COMPLETED
 
+  ### ✅ Project 2: Executive Sales Dashboard
+**Tools:** Excel (PivotTables, Charts, Formatting)  
+**Skills:** Data Visualization, KPI Dashboard, Executive Reporting
+**Features:**
+- Interactive KPI metrics
+- Professional data visualizations
+- Executive business summary
+- Formatted corporate dashboard
+**Business Impact:**
+- Identified phones as revenue driver (52% of total)
+- Revealed West region as top market
+- Provided data-driven growth strategies
+
  📫 Let's Connect
 - **Email:** [itsmujtaba786@gmail.com]
 - **LinkedIn:** [https://www.linkedin.com/in/muhammad-mujtaba-745890242?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
