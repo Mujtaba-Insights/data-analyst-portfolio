@@ -32,7 +32,7 @@ I'm an aspiring Data Analyst passionate about transforming raw data into meaning
 - Best Performing Region: West
 **Status:** COMPLETED
 
-  ### ✅ Project 2: Executive Sales Dashboard
+ ### ✅ Project 2: Executive Sales Dashboard
 **Tools:** Excel (PivotTables, Charts, Formatting)  
 **Skills:** Data Visualization, KPI Dashboard, Executive Reporting
 **Features:**
