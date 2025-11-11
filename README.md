@@ -45,6 +45,19 @@ I'm an aspiring Data Analyst passionate about transforming raw data into meaning
 - Revealed West region as top market
 - Provided data-driven growth strategies
 
+ ### ✅ Project 3: Advanced Excel & Automation
+**Tools:** Excel (Power Query, VLOOKUP, Data Validation, Conditional Formatting)  
+**Skills:** Data Automation, Professional Forms, Data Quality Control
+**Features:**
+- Automated data cleaning with Power Query
+- Advanced data lookup with VLOOKUP
+- Professional data entry forms with validation
+- Visual data alerts with conditional formatting
+**Business Impact:**
+- Reduced data cleaning time by 80% through automation
+- Eliminated data entry errors with validated forms
+- Enabled quick insights through visual data formatting
+
  📫 Let's Connect
 - **Email:** [itsmujtaba786@gmail.com]
 - **LinkedIn:** [https://www.linkedin.com/in/muhammad-mujtaba-745890242?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
